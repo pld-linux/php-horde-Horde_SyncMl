@@ -25,7 +25,7 @@ Requires:	php-horde-Horde_Support < 2.0.0
 Requires:	php-horde-Horde_Translation < 2.0.0
 Requires:	php-horde-Horde_Util < 2.0.0
 Requires:	php-horde-Horde_Xml_Wbxml < 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Requires:	php-pear-PEAR-core
 Suggests:	php-horde-Horde_Auth
 Suggests:	php-horde-Horde_Core
