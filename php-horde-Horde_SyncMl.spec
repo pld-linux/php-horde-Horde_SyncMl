@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde_SyncMl provides an API for processing SyncML requests
 Name:		php-horde-Horde_SyncMl
-Version:	1.0.8
+Version:	1.0.9
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	a8d0f2fd52439891ae092eddff2199ba
+# Source0-md5:	589c03d030f69415d9d2d3e4e75c8540
 URL:		https://github.com/horde/horde/tree/master/framework/SyncMl/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
