@@ -2,7 +2,6 @@
 # - system locale dirs
 %define		status		stable
 %define		pearname	Horde_SyncMl
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde_SyncMl provides an API for processing SyncML requests
 Name:		php-horde-Horde_SyncMl
 Version:	1.0.9
